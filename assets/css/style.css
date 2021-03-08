@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Quicksand-Medium';
+    src: url('/assets/fonts/Quicksand/Quicksand-Medium.ttf');
+}
+
+body {
+    font-family: 'Quicksand-Medium';
+    background: #f4f4f4;
+}
+
+/* Navbar */
